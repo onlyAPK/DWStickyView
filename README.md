@@ -1,7 +1,7 @@
 # 黏糊糊
 
-![图片](https://raw.githubusercontent.com/onlyAPK/DWStickyView/master/bezierPopLine1.gif
-)
+![图片](https://raw.githubusercontent.com/onlyAPK/DWStickyView/master/bezierPopLine1.gif)
+
 
 ##配合文章食用更佳：http://www.jianshu.com/p/7fa117e3ae4e
 
