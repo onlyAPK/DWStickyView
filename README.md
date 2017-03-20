@@ -1,6 +1,6 @@
 # 黏糊糊
 
-![图片](https://raw.githubusercontent.com/onlyAPK/DWStickyView/blob/master/bezierPopLine1.gif
+![图片](https://raw.githubusercontent.com/onlyAPK/DWStickyView/master/bezierPopLine1.gif
 )
 
 直接作为view添加
