@@ -3,7 +3,7 @@
 ![图片](https://raw.githubusercontent.com/onlyAPK/DWStickyView/master/bezierPopLine1.gif)
 
 
-#### 配合文章食用更佳：http://www.jianshu.com/p/7fa117e3ae4e
+### 配合文章食用效果更佳：http://www.jianshu.com/p/7fa117e3ae4e
 
 直接作为view添加
 
